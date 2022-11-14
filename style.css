@@ -1,0 +1,69 @@
+
+body{
+  background-image: url(MaterialeEsercizioLim/background.jpg);
+  background-size: cover;
+  margin-top: 5%;
+}
+.contenitoreGen{
+  width: 50%;
+  margin: auto;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 4.5%;
+  padding: 50px 100px 50px 100px;
+  color: white
+}
+
+h1{
+  color: limegreen;
+}
+
+header > img{
+  width: 25%;
+}
+
+header{
+  text-align: center;
+  line-height: 0.5;
+}
+
+nav{
+  background-color: limegreen;
+  padding-top: 7px;
+  height: 30px;
+  text-align: center;
+}
+
+
+#carica1{
+  background-color: orange;
+  width: 45%;
+  height: 15px;
+  border-radius: 5px;
+}
+
+#carica2{
+  background-color: limegreen;
+  width: 75%;
+  height: 15px;
+  border-radius: 5px;
+}
+
+#carica3{
+  background-color: red;
+  width: 25%;
+  height: 15px;
+  border-radius: 5px;
+}
+
+input{
+  width: 20px;
+  height: 20px;
+}
+
+div h2{
+  display: inline-block;
+}
+
+.monopattino{
+  line-height: 0.5;
+}
